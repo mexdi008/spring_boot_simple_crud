@@ -1,6 +1,6 @@
 package com.Crud.Crud.controller;
 
-import com.Crud.Crud.entitiy.Customer;
+import com.Crud.Crud.entity.Customer;
 import com.Crud.Crud.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

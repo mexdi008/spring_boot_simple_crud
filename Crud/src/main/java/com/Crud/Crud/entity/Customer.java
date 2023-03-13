@@ -1,4 +1,4 @@
-package com.Crud.Crud.entitiy;
+package com.Crud.Crud.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
